@@ -1,0 +1,46 @@
+body{
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.todo_main{
+  text-align:  center;
+  margin: 30px 5px 5px 5px;
+ 
+}
+.btn{
+  color: red;
+  background-color: silver;
+}
+.addbtn{
+  color: green;
+  margin: 2%;
+}
+.list{
+  margin:0% 5% 0% 5%;
+  
+  text-align: center;
+}
+.editbtn{
+  margin: 2% 0% 0% 2%;
+  
+  color: blue;
+}
+.dlbtn{
+  margin: 1% ;
+  
+}
+.listli{
+  text-align: center;
+  margin: 0% 0% 0% 0%;
+  border: 2px solid white;
+  
+  
+}
+.timebtn{
+  color: white;
+  background-color: black;
+  border: none;
+  margin: 1%;
+}
